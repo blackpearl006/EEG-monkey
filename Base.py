@@ -19,7 +19,7 @@ ch_types = ['eeg']*16
 # Sampling frequency is 1000Hz
 fs = 1000
 
-directory = '/Users/ninad/Documents/CMI_workshop/Monkey_Anesthesia'
+directory = '/path/to/desired/folder/Monkey_Anesthesia'
 
 stages = ['rest', 'low-anesthetic', 'deep-anesthetic', 'recovery']
 
