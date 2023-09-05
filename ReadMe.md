@@ -158,3 +158,6 @@ Subject 1
 Subject 2
 
 ![Screenshot 2023-07-19 at 11.30.05 AM.png](Monkey%20EEG%20Analysis/Screenshot_2023-07-19_at_11.30.05_AM.png)
+
+
+Link to the workshop codes and notes : [Git lab](https://gitlab.com/narayanps/cmi-sapienlabs-eeg-workshop)
